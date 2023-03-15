@@ -8,4 +8,4 @@ All links from the popular Instagram "Save These" series
 - [https://codepen.io/oldskool123/pen/mdrrbyo⁣](codepen.io/oldskool123/pen/mdrrbyo⁣⁣)
 - [https://codepen.io/GreenSock/pen/RwKwLWK⁣⁣](https://codepen.io/GreenSock/pen/RwKwLWK⁣⁣)
 - [https://codepen.io/GreenSock/pen/WNzLeWX⁣⁣](https://codepen.io/GreenSock/pen/WNzLeWX⁣⁣)
-- [https://codepen.io/celli/pen/mdVMOjr⁣⁣](codepen.io/celli/pen/mdVMOjr⁣⁣⁣)
+- [https://codepen.io/celli/pen/mdVMOjr⁣](https://codepen.io/celli/pen/mdVMOjr⁣)
